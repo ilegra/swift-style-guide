@@ -22,8 +22,6 @@
 * [Control Flow](#control-flow)
 * [Semicolons](#semicolons)
 * [Language](#language)
-* [Copyright Statement](#copyright-statement)
-* [Smiley Face](#smiley-face)
 * [Credits](#credits)
 
 
