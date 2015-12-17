@@ -337,14 +337,6 @@ UIView.animateWithDuration(1.0,
 }
 ```
 
-For single-expression closures where the context is clear, use implicit returns:
-
-```swift
-attendeeList.sort { a, b in
-    a > b
-}
-```
-
 
 ## Types
 
