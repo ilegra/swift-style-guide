@@ -23,6 +23,10 @@
 * [Semicolons](#semicolons)
 * [Language](#language)
 * [Credits](#credits)
+ 
+* **TODO**
+  * Globals or Defaults Declarations
+  * IBOutlets and IBActions naming conventions
 
 
 ## Naming
